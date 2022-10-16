@@ -2,6 +2,10 @@
 image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/wiki/potion/images/main-banner.png
 text=PotionWiki
 
+#header
+scale=2
+text=This is only kept for archival purposes, this will most likely not be updated - AUD
+align=center
 
 #navigation
 color=-1
