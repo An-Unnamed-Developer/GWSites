@@ -2,6 +2,11 @@
 image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/images/banner_basic_yellow.png
 text=MineNews
 
+#header
+scale=2
+text=This is only kept for archival purposes, this will most likely not be updated - AUD
+align=center
+
 #navigation
 color=-15198184
 item-link-1=minenews.web
