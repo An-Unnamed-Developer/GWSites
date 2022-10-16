@@ -1,6 +1,14 @@
+
+
+
 #banner
 image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/main-banner.png
 text=&9&lSuper Mario World
+
+#header
+scale=2
+text=This is only kept for archival purposes, this will most likely not be updated - AUD
+align=center
 
 #navigation
 item-link-1=supermarioworld.craft
