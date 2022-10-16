@@ -2,6 +2,11 @@
 image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
 text=&c&lModel Creator
 
+#header
+scale=2
+text=This is only kept for archival purposes, this will most likely not be updated - AUD
+align=center
+
 #navigation
 item-link-1=modelcreator.app
 item-label-1=Home
