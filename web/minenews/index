@@ -3,7 +3,7 @@ image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/
 text=MineNews
 
 #header
-scale=1
+scale=0.5
 text=This is only kept for archival purposes, this will most likely not be updated - AUD
 align=center
 
